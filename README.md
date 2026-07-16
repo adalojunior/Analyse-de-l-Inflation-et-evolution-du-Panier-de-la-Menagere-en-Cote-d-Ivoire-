@@ -1,10 +1,10 @@
-# 🛒 Analyse de l'Inflation & Évolution du Panier de la Ménagère à Abidjan (2021-2026)
+#  Analyse de l'Inflation & Évolution du Panier de la Ménagère à Abidjan (2021-2026)
 
 [![Dashboard](https://img.shields.io/badge/Dashboard-Power%20BI-orange?style=flat-square&logo=microsoftpowerbi)](https://votre-lien-dashboard.com)
 [![Python](https://img.shields.io/badge/Language-Python%203.9-blue?style=flat-square&logo=python)](./notebooks/)
 [![Données](https://img.shields.io/badge/Data-INS%20%2F%20BCEAO-green?style=flat-square)](./data/)
 
-## 🎯 Problématique Métier & Contexte Économique
+##  Problématique Métier & Contexte Économique
 
 L'inflation et la cherté de la vie sont au cœur des préoccupations économiques en Côte d'Ivoire. Pour les acteurs de la grande distribution (Prosuma, Carrefour, CDCI Playce, Chic shop), les entreprises agroalimentaires et les décideurs publics, comprendre comment la hausse des prix affecte le pouvoir d'achat des ménages ivoirien est un enjeu stratégique majeur.
 
@@ -15,7 +15,7 @@ L'inflation et la cherté de la vie sont au cœur des préoccupations économiqu
 
 ---
 
-## 💡 Approche Économique & Concepts Clés
+##  Approche Économique & Concepts Clés
 
 Ce projet applique des théories micro et macroéconomiques fondamentales pour donner du sens aux données :
 * **Théorie du Consommateur & Effet de Substitution :** Analyse de la manière dont les ménages ivoiriens réallouent leur budget vers des biens inférieurs (ex: substitution de produits importés par des produits locaux) lorsque l'inflation globale augmente.
@@ -24,7 +24,7 @@ Ce projet applique des théories micro et macroéconomiques fondamentales pour d
 
 ---
 
-## 🛠️ Stack Technique
+##  Stack Technique
 
 * **Collecte & Intégration :** Python / Pandas (Extraction et fusion de données historiques de l'INS Côte d'Ivoire, de la BCEAO et de la Banque Mondiale).
 * **Analyse Quantitative & Forecasting :** 
@@ -34,7 +34,7 @@ Ce projet applique des théories micro et macroéconomiques fondamentales pour d
 
 ---
 
-## 📈 Résultats & Insights Clés (Exemples)
+##  Résultats & Insights Clés (Exemples)
 
 * **Le Moteur de l'Inflation :** Les produits alimentaires (principalement l'huile de palme, le riz importé et le poisson congelé) représentent plus de 60% de la contribution à l'inflation globale constatée en Côte d'Ivoire sur la période étudiée.
 * **Saisonnalité Marquée :** On observe un pic systématique des prix des produits vivriers locaux (banane de table, manioc, piment) entre mai et juillet, coïncidant avec la grande saison des pluies qui perturbe le transport depuis l'intérieur du pays (Daloa, Gagnoa) vers Abidjan.
@@ -42,7 +42,7 @@ Ce projet applique des théories micro et macroéconomiques fondamentales pour d
 
 ---
 
-## 🖥️ Structure du Dashboard interactif
+##  Structure du Dashboard interactif
 
 Le rapport Power BI se structure autour de trois axes :
 
@@ -52,7 +52,7 @@ Le rapport Power BI se structure autour de trois axes :
 
 ---
 
-## 📂 Organisation du Répertoire
+##  Organisation du Répertoire
 
 ```text
 ├── data/                  # Données INS / BCEAO nettoyées
