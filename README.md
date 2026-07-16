@@ -6,7 +6,7 @@
 
 ## 🎯 Problématique Métier & Contexte Économique
 
-L'inflation et la cherté de la vie sont au cœur des préoccupations économiques en Côte d'Ivoire. Pour les acteurs de la grande distribution (Prosuma, Carrefour, CDCI), les entreprises agroalimentaires et les décideurs publics, comprendre comment la hausse des prix affecte le pouvoir d'achat des ménages abidjanais est un enjeu stratégique majeur.
+L'inflation et la cherté de la vie sont au cœur des préoccupations économiques en Côte d'Ivoire. Pour les acteurs de la grande distribution (Prosuma, Carrefour, CDCI Playce, Chic shop), les entreprises agroalimentaires et les décideurs publics, comprendre comment la hausse des prix affecte le pouvoir d'achat des ménages ivoirien est un enjeu stratégique majeur.
 
 **L'objectif de ce projet** est d'analyser la dynamique de l'Indice des Prix à la Consommation (IPC) et de modéliser l'évolution du "panier de la ménagère" à Abidjan afin de :
 1. **Identifier les postes de dépenses les plus inflationnistes** (produits alimentaires, transport, logement).
@@ -18,9 +18,9 @@ L'inflation et la cherté de la vie sont au cœur des préoccupations économiqu
 ## 💡 Approche Économique & Concepts Clés
 
 Ce projet applique des théories micro et macroéconomiques fondamentales pour donner du sens aux données :
-* **Théorie du Consommateur & Effet de Substitution :** Analyse de la manière dont les ménages abidjanais réallouent leur budget vers des biens inférieurs (ex: substitution de produits importés par des produits locaux) lorsque l'inflation globale augmente.
+* **Théorie du Consommateur & Effet de Substitution :** Analyse de la manière dont les ménages ivoiriens réallouent leur budget vers des biens inférieurs (ex: substitution de produits importés par des produits locaux) lorsque l'inflation globale augmente.
 * **Indice de Laspeyres :** Compréhension de la méthodologie de calcul de l'IPC national utilisée par l'Institut National de la Statistique (INS) de Côte d'Ivoire.
-* **Analyse de Séries Temporelles :** Modélisation de la saisonnalité des prix agricoles (périodes de soudure, saisons des pluies impactant l'approvisionnement des marchés comme Gouro à Adjamé).
+* **Analyse de Séries Temporelles :** Modélisation de la saisonnalité des prix agricoles (périodes de soudure, saisons des pluies impactant l'approvisionnement des marchés comme le marché Gouro à Adjamé).
 
 ---
 
@@ -36,7 +36,7 @@ Ce projet applique des théories micro et macroéconomiques fondamentales pour d
 
 ## 📈 Résultats & Insights Clés (Exemples)
 
-* **Le Moteur de l'Inflation :** Les produits alimentaires (principalement l'huile de palme, le riz importé et le poisson congelé) représentent plus de 60% de la contribution à l'inflation globale constatée à Abidjan sur la période étudiée.
+* **Le Moteur de l'Inflation :** Les produits alimentaires (principalement l'huile de palme, le riz importé et le poisson congelé) représentent plus de 60% de la contribution à l'inflation globale constatée en Côte d'Ivoire sur la période étudiée.
 * **Saisonnalité Marquée :** On observe un pic systématique des prix des produits vivriers locaux (banane de table, manioc, piment) entre mai et juillet, coïncidant avec la grande saison des pluies qui perturbe le transport depuis l'intérieur du pays (Daloa, Gagnoa) vers Abidjan.
 * **Performances de Prévision :** Le modèle SARIMAX a permis de prédire l'évolution de l'indice des produits alimentaires avec un taux d'erreur moyen (MAPE) inférieur à 3.2% sur un horizon de 3 mois.
 
